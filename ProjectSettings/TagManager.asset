@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Particle System
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Friendlies
+  - Enemies
+  - FriendlyProjectiles
+  - EnemyProjectiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: EnemyProjectiles
+    uniqueID: 2300255183
+    locked: 0
+  - name: Enemies
+    uniqueID: 4065918387
+    locked: 0
+  - name: FriendlyProjectiles
+    uniqueID: 603622509
+    locked: 0
+  - name: Friendlies
+    uniqueID: 229978659
+    locked: 0
+  - name: Explosions
+    uniqueID: 4063690755
+    locked: 0
